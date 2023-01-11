@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>服务器</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-1328.000000, -162.000000)">
+            <g id="编组-5备份-5" transform="translate(1126.000000, 138.000000)">
+                <g id="服务器" transform="translate(202.000000, 24.000000)">
+                    <circle id="椭圆形" fill="#E6F3FF" cx="28" cy="28" r="28"></circle>
+                    <g id="数据服务器_data-server" transform="translate(15.500000, 15.500000)">
+                        <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="25" height="25"></rect>
+                        <path d="M21.3541667,2.08333333 L3.64583333,2.08333333 C2.78289062,2.08333333 2.08333333,2.78289062 2.08333333,3.64583333 L2.08333333,21.3541667 C2.08333333,22.2171354 2.78289062,22.9166667 3.64583333,22.9166667 L21.3541667,22.9166667 C22.2171354,22.9166667 22.9166667,22.2171354 22.9166667,21.3541667 L22.9166667,3.64583333 C22.9166667,2.78289062 22.2171354,2.08333333 21.3541667,2.08333333 Z" id="路径" stroke="#1890FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <line x1="2.08333333" y1="14.6666667" x2="22.9166667" y2="14.6666667" id="路径" stroke="#1890FF" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="5.20833333" y1="18.7916667" x2="5.72916667" y2="18.7916667" id="路径" stroke="#1890FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="13.5416667" y1="18.7916667" x2="19.7916667" y2="18.7916667" id="路径" stroke="#1890FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="22.9166667" y1="19.2708333" x2="22.9166667" y2="14.0625" id="路径" stroke="#1890FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="2.08333333" y1="19.2708333" x2="2.08333333" y2="14.0625" id="路径" stroke="#1890FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

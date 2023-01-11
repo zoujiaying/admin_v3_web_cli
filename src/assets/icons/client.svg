@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>客户端</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-1022.000000, -162.000000)">
+            <g id="编组-5备份-4" transform="translate(820.000000, 138.000000)">
+                <g id="客户端" transform="translate(202.000000, 24.000000)">
+                    <circle id="椭圆形" fill="#E6F3FF" cx="28" cy="28" r="28"></circle>
+                    <g id="工作台_workbench" transform="translate(15.000000, 14.500000)">
+                        <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="26" height="26"></rect>
+                        <path d="M2.16666667,16.875 L2.16666667,5.79166667 C2.16666667,4.68709717 3.06209717,3.79166667 4.16666667,3.79166667 L21.8333333,3.79166667 C22.9379028,3.79166667 23.8333333,4.68709717 23.8333333,5.79166667 L23.8333333,16.875 C23.8333333,17.9795695 22.9379028,18.875 21.8333333,18.875 L4.16666667,18.875 C3.06209717,18.875 2.16666667,17.9795695 2.16666667,16.875 Z" id="路径" stroke="#1A91FF" stroke-width="2" stroke-linejoin="round"></path>
+                        <line x1="8.66666667" y1="12.3333333" x2="8.66666667" y2="14.5" id="路径" stroke="#1A91FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="13" y1="10.1666667" x2="13" y2="14.5" id="路径" stroke="#1A91FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="17.3333333" y1="8" x2="17.3333333" y2="14.5" id="路径" stroke="#1A91FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="13" y1="18.875" x2="13" y2="22.125" id="路径" stroke="#1A91FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="6.5" y1="23.2083333" x2="19.5" y2="23.2083333" id="路径" stroke="#1A91FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

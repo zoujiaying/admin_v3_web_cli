@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>箭头</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-1368.000000, -268.000000)">
+            <g id="编组-5备份-5" transform="translate(1126.000000, 138.000000)">
+                <g id="箭头" transform="translate(242.000000, 130.000000)">
+                    <path d="M16.0000003,6.50308699e-07 L16.0000003,16.0000007 L3.49691129e-07,16.0000007 L3.49691129e-07,6.50308699e-07 L16.0000003,6.50308699e-07 Z" id="矩形" opacity="0.600000024" transform="translate(8.000000, 8.000001) scale(-1, -1) rotate(90.000003) translate(-8.000000, -8.000001) "></path>
+                    <polygon id="路径-4-(Stroke)" fill="#606266" transform="translate(8.229805, 7.999976) scale(-1, -1) rotate(90.000003) translate(-8.229805, -7.999976) " points="4.68942535 5.3105458 8.22980576 8.85092597 11.7701859 5.3105458 12.6894249 6.22978453 8.22980576 10.6894034 3.77018663 6.22978453"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

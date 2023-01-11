@@ -1,0 +1,41 @@
+//@forward "element-plus/theme-chalk/src/common/var.scss" with (
+//  $colors: (
+//    "primary": (
+//      "base": #1890ff,
+//    ),
+//    "success": (
+//      "base": #21ba45,
+//    ),
+//    "warning": (
+//      "base": #f2711c,
+//    ),
+//    "danger": (
+//      "base": #db2828,
+//    ),
+//    "error": (
+//      "base": #db2828,
+//    ),
+//    "info": (
+//      "base": #42b8dd,
+//    ),
+//  ),
+//  $menu: (
+//    'active-color': var(--el-color-white),
+//    'bg-color': '#282c34',
+//    'text-color': var(--el-color-white),
+//    'hover-text-color': var(--el-color-white),
+//    'hover-bg-color': var(--el-color-primary-light-2),
+//  )
+//);
+
+:root {
+  --el-color-primary: #1890ff;
+
+  .el-menu {
+    --el-menu-active-color: var(--el-color-white);
+    --el-menu-bg-color: #282c34;
+    --el-menu-text-color: var(--el-color-white);
+    --el-menu-hover-text-color: var(--el-color-white);
+    --el-menu-hover-bg-color: var(--el-color-primary-light-2);
+  }
+}
